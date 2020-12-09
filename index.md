@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*Questions? Email me at [agthompson@protonmail.com](mailto:agthompson@protonmail.com).
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
